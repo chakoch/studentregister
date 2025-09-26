@@ -1,2 +1,2 @@
 # studentregister
-Simpel student register for students
+Simpel student register app for students
